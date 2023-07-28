@@ -1,0 +1,31 @@
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\appsettings.Development.json
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\appsettings.json
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.staticwebassets.runtime.json
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.exe
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.deps.json
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.runtimeconfig.json
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.dll
+D:\asp.net core 6 MVC\Use vs run func\bin\Debug\net6.0\Use vs run func.pdb
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.csproj.AssemblyReference.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.AssemblyInfoInputs.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.AssemblyInfo.cs
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.csproj.CoreCompileInputs.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.RazorAssemblyInfo.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.RazorAssemblyInfo.cs
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets\msbuild.Use vs run func.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets\msbuild.build.Use vs run func.props
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Use vs run func.props
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Use vs run func.props
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets.pack.json
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets.build.json
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\staticwebassets.development.json
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\scopedcss\bundle\Use vs run func.styles.css
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\scopedcss\projectbundle\Use vs run func.bundle.scp.css
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.dll
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\refint\Use vs run func.dll
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.pdb
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\Use vs run func.genruntimeconfig.cache
+D:\asp.net core 6 MVC\Use vs run func\obj\Debug\net6.0\ref\Use vs run func.dll

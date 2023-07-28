@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Use vs run func.props" />
+</Project>

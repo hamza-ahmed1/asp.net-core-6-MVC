@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Use vs run func/1.0.0": {
+        "runtime": {
+          "Use vs run func.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Use vs run func/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
